@@ -1,0 +1,23 @@
+{
+    "manifest_version":1,
+    "name": "MyTodo",
+    "version": "0.50",
+    "description": "My Todo listes",
+    "permissions": [
+        "tabs",
+        "activeTab",
+        "storage"
+    ],
+
+    "action": {
+        "default_icon": {
+
+            "64": "images/logoTodo.jpg",
+            "32": "images/logoTodo.jpg"
+        },
+        "default_popup": "views/listes.html"
+    },
+    "icons": {
+        "64": "images/logoTodo.jpg"
+    }
+}
