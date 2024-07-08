@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+.popup-liste{
+    width: 300px;
+    height: 300px;
+    background-color: aqua;
+    border-radius: 0 0 20px 20px;
+}
+
+.titre{
+    background-color: blue;
+    width: 100%;
+    height: 20px;
+    text-align: center;
+}

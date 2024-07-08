@@ -1,5 +1,5 @@
 {
-    "manifest_version":1,
+    "manifest_version":3,
     "name": "MyTodo",
     "version": "0.50",
     "description": "My Todo listes",
@@ -12,8 +12,9 @@
     "action": {
         "default_icon": {
 
-            "64": "images/logoTodo.jpg",
-            "32": "images/logoTodo.jpg"
+            "32": "images/logoTodo.jpg",
+            "64": "images/logoTodo.jpg"
+            
         },
         "default_popup": "views/listes.html"
     },
