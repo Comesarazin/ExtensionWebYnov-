@@ -19,6 +19,7 @@
         "default_popup": "views/listes.html"
     },
     "icons": {
+        "32": "images/logoTodo.jpg",
         "64": "images/logoTodo.jpg"
     }
 }
