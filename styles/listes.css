@@ -1,11 +1,11 @@
 body{
     margin: 0;
+    background-color:#0080ff;
 }
 .popup-liste{
     width: 300px;
     height: 300px ;
     overflow-y: auto; /* Permet à la popup de s'agrandir verticalement si nécessaire */
-    background-color:#0080ff;
 }
 
 .titre{
@@ -14,6 +14,10 @@ body{
     width: 100%;
     height: 20px;
     text-align: center;
+}
+
+.titre h3{
+    margin: 0;
 }
 
 #new-task{
